@@ -23,7 +23,8 @@ There are two users on this website namely guest and user
 #### User
     - Access personalized dashboard displaying booked tickets, account balance, and total movies purchased.
     - Easily browse and reserve movies, selecting preferred seating positions (up to six seats). If balance   
-      exceeds ticket price, successful reservation with balance deduction. Insufficient balance offers top-up or cancellation. Ticket details shown after successful order.
+      exceeds ticket price, successful reservation with balance deduction. Insufficient balance offers top-up or cancellation. 
+      Ticket details shown after successful order.
     - View order history with ticket quantity, total price, order date, status, and "view detail" button.  
       Cancel tickets for refund.
     - Conveniently top up account balance.
