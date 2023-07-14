@@ -2,11 +2,15 @@ SEA-Cinema
 
 SEA-Cinema is a movie ticket booking website built with Laravel, allowing users to easily order tickets for currently playing movies. 
 
+
+
 Technologies Used
 
 Laravel framework for server-side application.
 Bootstrap CSS for styling the components.
 MySQL database for storing movie and user information.
+
+
 
 
 Installation
