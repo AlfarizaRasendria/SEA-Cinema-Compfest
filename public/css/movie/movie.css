@@ -1,0 +1,11 @@
+.movie-border {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+}
+
+.movie-bg {
+    background-color: #000080;
+}
+
+.detail-movie-bg {
+    background-color: black;
+}

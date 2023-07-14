@@ -1,0 +1,11 @@
+.bg-warning-custom{
+    background-color: #FFBC00;
+}
+
+.balance-cont{
+    max-width:250px ;
+    max-height:250px ;
+    border: 1.5px solid rgba(128, 0, 128, 0.5);
+    box-shadow: 0 0 10px rgba(128, 0, 128, 0.5);
+
+}

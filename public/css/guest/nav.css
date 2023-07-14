@@ -1,0 +1,36 @@
+#nav {
+    background-color: #c9eef5;
+    color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    min-height: 70px;
+    padding: 0 10px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.66);
+    z-index: 1;
+}
+
+
+.navbar-brand
+{
+    width: 109px;
+    height: 81px;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.footer{
+    min-height: 150px;
+    bottom:0;
+    left: 0;
+}
+.nav-link:hover {
+    background-color: #ff3366;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+

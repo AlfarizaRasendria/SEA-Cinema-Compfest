@@ -1,0 +1,8 @@
+.ticket-border {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+.bottom-detail-order{
+    border-bottom: 10px solid black;
+}
+
