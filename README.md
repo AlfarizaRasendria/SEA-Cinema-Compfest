@@ -1,6 +1,6 @@
 # SEA-Cinema
 
-SEA-Cinema is a movie ticket booking website built with Laravel, this website allows users to order movie tickets to be screened easily due to various features such as order tickets, seat selection, cancel tickets, top up, withdraw, check balances.
+SEA-Cinema is a movie ticket booking website developed with Laravel. The platform enables users to conveniently order movie tickets for both desktop and mobile devices. This website allows users to order movie tickets to be screened easily due to various features such as order tickets, seat selection, cancel tickets, top up, withdraw, check balances.
 
 ### Technologies Used
 
