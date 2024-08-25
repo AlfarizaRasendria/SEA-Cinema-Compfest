@@ -24,7 +24,7 @@ class SessionController extends Controller
     }
     public function getLanding()
     {
-        $response = Http::get('https://seleksi-sea-2023.vercel.app/api/movies');
+        $response = Http::get('https://old-movies-api.vercel.app/api/movies');
         $data = $response->json();
 
 
