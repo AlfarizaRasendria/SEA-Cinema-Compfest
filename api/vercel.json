@@ -12,7 +12,6 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://sea-cinema-compfest.com",
-        "APP_KEY":"WiLhevAupQJ58YZEiwuI1AXTPN2oPl6puvtcRp2ecwY=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
